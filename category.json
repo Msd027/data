@@ -1,27 +1,27 @@
 [
     {
         "id":1,
-        "name":"Skin Care",
         "image":"https://i.ibb.co/c2xKD3C/skin-care.webp",
+        "name":"Skin Care",
     },
     {
         "id":2,
-        "name":"Oral Care",
         "image":"https://i.ibb.co/JkC9wxR/Oral-care.jpg",
+        "name":"Oral Care",
     },
     {
         "id":3,
-        "name":"Perfume",
         "image":"https://i.ibb.co/pXQXM5Y/perfume.jpg",
+        "name":"Perfume",
     },
     {
         "id":4,
-        "name":"Snacks",
         "image":"https://i.ibb.co/mFpBzRH/snacks.jpg",
+        "name":"Snacks",
     },
     {
         "id":5,
-        "name":"Gadget",
         "image":"https://i.ibb.co/19hZmVz/gadgets.webp",
+        "name":"Gadget",
     },
 ]
