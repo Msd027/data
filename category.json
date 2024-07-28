@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Skin Care",
+        "image":"https://ibb.co/bN7jzm2"
+    },
+    {
+        "id":2,
+        "name":"Oral Care",
+        "image":"https://ibb.co/MN9mx8D"
+    },
+    {
+        "id":3,
+        "name":"Perfume",
+        "image":"https://ibb.co/C060YDR"
+    },
+    {
+        "id":4,
+        "name":"Snacks",
+        "image":"https://ibb.co/KznGy59"
+    },
+    {
+        "id":5,
+        "name":"Appliances",
+        "image":"https://ibb.co/kB035sm"
+    },
+]
