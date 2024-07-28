@@ -2,26 +2,26 @@
     {
         "id":1,
         "name":"Skin Care",
-        "image":"https://ibb.co/bN7jzm2"
+        "image":"https://i.ibb.co/c2xKD3C/skin-care.webp",
     },
     {
         "id":2,
         "name":"Oral Care",
-        "image":"https://ibb.co/MN9mx8D"
+        "image":"https://i.ibb.co/JkC9wxR/Oral-care.jpg",
     },
     {
         "id":3,
         "name":"Perfume",
-        "image":"https://ibb.co/C060YDR"
+        "image":"https://i.ibb.co/pXQXM5Y/perfume.jpg",
     },
     {
         "id":4,
         "name":"Snacks",
-        "image":"https://ibb.co/KznGy59"
+        "image":"https://i.ibb.co/mFpBzRH/snacks.jpg",
     },
     {
         "id":5,
-        "name":"Appliances",
-        "image":"https://ibb.co/kB035sm"
+        "name":"Gadget",
+        "image":"https://i.ibb.co/19hZmVz/gadgets.webp",
     },
 ]
