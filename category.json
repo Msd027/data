@@ -1,27 +1,22 @@
 [
     {
-        "id":1,
-        "image":"https://i.ibb.co/c2xKD3C/skin-care.webp",
-        "name":"Skin Care",
+        "id": 1,
+        "name": "Fashion",
+        "navName": "Fashion"
     },
     {
-        "id":2,
-        "image":"https://i.ibb.co/JkC9wxR/Oral-care.jpg",
-        "name":"Oral Care",
+        "id": 2,
+        "name": "Beauty",
+        "navName": "Beauty"
     },
     {
-        "id":3,
-        "image":"https://i.ibb.co/pXQXM5Y/perfume.jpg",
-        "name":"Perfume",
+        "id": 3,
+        "name": "Electronics",
+        "navName": "Electronics"
     },
     {
-        "id":4,
-        "image":"https://i.ibb.co/mFpBzRH/snacks.jpg",
-        "name":"Snacks",
-    },
-    {
-        "id":5,
-        "image":"https://i.ibb.co/19hZmVz/gadgets.webp",
-        "name":"Gadget",
-    },
+        "id": 4,
+        "name": "Decorative",
+        "navName": "Decorative"
+    }
 ]
