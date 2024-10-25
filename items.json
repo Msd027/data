@@ -1,186 +1,209 @@
 [
-    //skin care
+    //fashion
     {
         "id":1,
         "categoryId":1,
-        "image":"https://i.ibb.co/Ltz6LpC/sc1.jpg",
-        "name":"Forecast Skin Naturals, Face Serum, 30 ml",
-        "cost":"MRP ₹150.00",
+        "categoryName":"Fashion",
+        "image":"https://i.ibb.co/xjdHTmM/fashion1.jpg",
+        "name":"Lymio Hoodies",
+        "colour":"Black",
+        "discription":"Sweatshirt for Men, Long Sleeve, Wool Blend, Hooded Neck",
+        "cost":"MRP ₹599.00"
     },
     {
         "id":2,
         "categoryId":1,
-        "image":"https://i.ibb.co/vZcKKxx/sc2.jpg",
-        "name":"Advik Ayurveda Brightening Face Cream for Men and Women, 50g",
-        "cost":"MRP ₹957.00",
+        "categoryName":"Fashion",
+        "image":"https://i.ibb.co/YXGXBdR/fashion2.jpg",
+        "name":"Womens Cotton Blend Printed Hooded Sweatshirt",
+        "colour":"Maroon",
+        "discription":"Sweatshirt for Women, Long Sleeve, Wool Blend, Hooded Neck",
+        "cost":"MRP ₹299.00"
     },
     {
         "id":3,
         "categoryId":1,
-        "image":"https://i.ibb.co/p1gmzvz/sc3.webp",
-        "name":"Ayuga Kashmiri Saffron Face Wash with Saffron & Jasmine 100 mL",
-        "cost":"MRP ₹399.00",
+        "categoryName":"Fashion",
+        "image":"https://i.ibb.co/FWfT7Bb/fashion3.jpg",
+        "name":"The Pant Project",
+        "colour":"Grey",
+        "discription":"Luxury PV Lycra Stretchable Formal Pants for Men | Stylish Slim Fit Men's Wear Trousers for Office or Party",
+        "cost":"MRP ₹1794.00"
     },
     {
         "id":4,
         "categoryId":1,
-        "image":"https://i.ibb.co/C6BZM47/sc4.jpg",
-        "name":"3% Vitamin E Moisturizer for Face Dryness -100g",
-        "cost":"MRP ₹307.00",
+        "categoryName":"Fashion",
+        "image":"https://i.ibb.co/GtNgLzJ/fashion4.jpg",
+        "name":"FIORRA Kurta Set With Dupatta",
+        "colour":"Maroon",
+        "discription":"Women's Poly Crepe A-Line Kurta Set with dupatta",
+        "cost":"MRP ₹829.00"
     },
     {
         "id":5,
         "categoryId":1,
-        "image":"https://i.ibb.co/q5wJmkt/sc5.webp",
-        "name":"Simple Kind To Skin Soothing Facial Toner - 200 ml",
-        "cost":"MRP ₹437.00",
+        "categoryName":"Fashion",
+        "image":"https://i.ibb.co/HxkbxKt/fashion5.jpg",
+        "name":"Ethluxis Men's Silk Blend Kurta",
+        "colour":"Peach & White",
+        "discription":"Men Silk Blend Kurta with Churidar Pajama and Ethnic Bundi Jacket Set",
+        "cost":"MRP ₹1899.00"
     },
 
-    //oral care
+    //beauty
     {
         "id":6,
         "categoryId":2,
-        "image":"https://i.ibb.co/hLndKR0/oc1.jpg",
-        "name":"Closeup Toothpaste PACK 2X 150G",
-        "cost":"MRP ₹350.00",
+        "categoryName":"Beauty",
+        "image":"https://i.ibb.co/9ndkYWp/beauty1.jpg",
+        "name":"Skinn by Titan",
+        "quantity":"20ml",
+        "discription":"Long Lasting Eau De Perfum for Men, Grooming Essentials",
+        "cost":"MRP ₹591.00"
     },
     {
         "id":7,
         "categoryId":2,
-        "image":"https://i.ibb.co/HNNv3X1/oc2.jpg",
-        "name":"Oral B Pro-Health Precision Clean Electric Toothbrush",
-        "cost":"MRP ₹3205.00",
+        "categoryName":"Beauty",
+        "image":"https://i.ibb.co/TbsbcCT/beauty2.jpg",
+        "name":"Skinn BY Titan Sheer For Women",
+        "quantity":"50ml",
+        "discription":"Sheer For Women, 50ml, Perfume",
+        "cost":"MRP ₹1515.00"
     },
     {
         "id":8,
         "categoryId":2,
-        "image":"https://i.ibb.co/ctcHp5s/oc3.jpg",
-        "name":"GUM Tongue Cleaner",
-        "cost":"MRP ₹150.00",
+        "categoryName":"Beauty",
+        "image":"https://i.ibb.co/3fbm2F6/beauty3.jpg",
+        "name":"Lakme 9 To 5 Primer + Matte Powder Foundation Compact",
+        "quantity":"9G",
+        "discription":"Ivory Cream, Long Lasting, Matte Finish, Lightweight, Face Makeup",
+        "cost":"MRP ₹313.00"
     },
     {
         "id":9,
         "categoryId":2,
-        "image":"https://i.ibb.co/C8P6F1q/oc4.jpg",
-        "name":"Listerine Cool Mint Mouthwash Liquid 250ml",
-        "cost":"MRP ₹175.00",
+        "categoryName":"Beauty",
+        "image":"https://i.ibb.co/x6SFQdt/beauty4.jpg",
+        "name":"Bombay Shaving Company Activated Charcoal Peel Off Mask",
+        "quantity":"100ml",
+        "discription":"Activated Charcoal Peel Off Mask With 5X Detoxifying Power, Fights Pollution And De-Tans Skin For Men And Women",
+        "cost":"MRP ₹129.00"
     },
     {
         "id":10,
         "categoryId":2,
-        "image":"https://i.ibb.co/m6gXMHt/oc5.jpg",
-        "name":"Oral-B Essential Floss Waxed Dental Floss",
-        "cost":"MRP ₹145.00",
+        "categoryName":"Beauty",
+        "image":"https://i.ibb.co/PcXbf3t/beauty5.jpg",
+        "name":"The Man Company Charcoal Kit Set Of 6",
+        "quantity":"6 Items",
+        "discription":"Body Wash, Shampoo, Face Scrub, Face Wash, Cleansing Gel, Soap | Best Gift for Men | Combo Set for Husband, Boyfriend",
+        "cost":"MRP ₹1347.00"
     },
 
-    //perfume
+    //electronics
     {
         "id":11,
         "categoryId":3,
-        "image":"https://i.ibb.co/SNRrDn1/per1.jpg",
-        "name":"Denver Hamilton Perfume For Men, 100ml",
-        "cost":"MRP ₹489.00",
+        "categoryName":"Electronics",
+        "image":"https://i.ibb.co/YjgzBK1/ele1.jpg",
+        "name":"truke Buds F1 Ultra True Wireless Earbuds",
+        "colour":"black",
+        "discription":"Spatial Audio Experience, 60H Playtime, Crystal-Clear Calls, Fast Charging, Bluetooth 5.3, Noise Cancellation, Gaming Mode, Brand Warranty",
+        "cost":"MRP ₹799.00"
     },
     {
         "id":12,
         "categoryId":3,
-        "image":"https://i.ibb.co/WWdtJN8/per2.jpg",
-        "name":"FOGG Men Spray Scent Impressio Perfume, 100Ml",
-        "cost":"MRP ₹390.00",
+        "categoryName":"Electronics",
+        "image":"https://i.ibb.co/9v8QycF/ele2.jpg",
+        "name":"TROXXON Multifunctional Data Cable Conversion Head",
+        "colour":"Multi-Colour",
+        "discription":"Portable Storage Box, Multi-Type Charging Line Convertor USB Type C Adapter Tool Contains Sim Card Slot Tray Eject Pin, Phone Holder",
+        "cost":"MRP ₹199.00"
     },
     {
         "id":13,
         "categoryId":3,
-        "image":"https://i.ibb.co/NjbXWyT/per3.webp",
-        "name":"Beardo Dark Side Perfume For Men 100 ml",
-        "cost":"MRP ₹1500.00",
+        "categoryName":"Electronics",
+        "image":"https://i.ibb.co/C62FCxc/ele3.jpg",
+        "name":"Ambrane Ultra Fast Type C Charging Cable",
+        "colour":"Black",
+        "discription":"65W VOOC Technology, 480Mbps Data Sync, Braided, 1.2 M",
+        "cost":"MRP ₹179.00"
     },
     {
         "id":14,
         "categoryId":3,
-        "image":"https://i.ibb.co/0t4gpzs/per4.jpg",
-        "name":"Bella Vita Organic Fresh Unisex Perfume 100 Ml",
-        "cost":"MRP ₹539.00",
+        "categoryName":"Electronics",
+        "image":"https://i.ibb.co/tZF3Bjq/ele4.jpg",
+        "name":"ZEBRONICS THUNDER Bluetooth 5.3 Wireless Headphones",
+        "colour":"Black",
+        "discription":"60H Backup, Gaming Mode, Dual Pairing, ENC, AUX, Micro SD, Voice assistant, Comfortable Earcups, Call Function",
+        "cost":"MRP ₹799.00"
     },
     {
         "id":15,
         "categoryId":3,
-        "image":"https://i.ibb.co/N7NvyV8/per5.webp",
-        "name":"Ajmal Blu Perfume - 90 ml",
-        "cost":"MRP ₹2400.00",
+        "categoryName":"Electronics",
+        "image":"https://i.ibb.co/4Rctcbh/ele5.jpg",
+        "name":"Universal Travel Adapter",
+        "colour":"Black",
+        "discription":"Travel Adapter and Wall Charger with USB Ports with Multi Type Power Outlet USB 2.1A,100-250 Voltage",
+        "cost":"MRP ₹555.00"
     },
 
-    //snacks
+    //decorative
     {
         "id":16,
         "categoryId":4,
-        "image":"https://i.ibb.co/pjsNJtx/s1.jpg",
-        "name":"Lay's Potato Chips 78g, Classic Salted Flavour",
-        "cost":"MRP ₹30.00",
+        "categoryName":"Decorative",
+        "image":"https://i.ibb.co/WK9xBxc/dec1.jpg",
+        "name":"Generic Realistic Looking Artificial Plants",
+        "material":"Plastic",
+        "discription":"Multi Variety, Durable Plastic, No Maintenance, Ideal for Hassle-Free Decoration, 8 Packs",
+        "cost":"MRP ₹279.00"
     },
     {
         "id":17,
         "categoryId":4,
-        "image":"https://i.ibb.co/qRRztHg/s2.jpg",
-        "name":"Beyond Snacks Kerala Banana Chips Salt & Black Pepper 85 Gm",
-        "cost":"MRP ₹60.00",
+        "categoryName":"Decorative",
+        "image":"https://i.ibb.co/VjJjbjJ/dec2.jpg",
+        "name":"JaipurCrafts Sparkle Square Gramophone",
+        "material":"Brass",
+        "discription":"Showpiece - 23 cm (Brass, Brown, Gold)",
+        "cost":"MRP ₹329.00"
     },
     {
         "id":18,
         "categoryId":4,
-        "image":"https://i.ibb.co/qC85L91/s3.webp",
-        "name":"Haldiram's Chips - Mast Masala, 55 g",
-        "cost":"MRP ₹25.00",
+        "categoryName":"Decorative",
+        "image":"https://i.ibb.co/ZdyK2V5/dec3.jpg",
+        "name":"Vibes Decorative Wall Hanging Wooden Art",
+        "material":"Wood",
+        "discription":"Decoration item, Quotes Decor Item, Set of 6",
+        "cost":"MRP ₹239.00"
     },
     {
         "id":19,
         "categoryId":4,
-        "image":"https://i.ibb.co/K6M5Mnk/s4.webp",
-        "name":"Dukes Orange Flavoured Waffy Wafers",
-        "cost":"MRP ₹25.00",
+        "categoryName":"Decorative",
+        "image":"https://i.ibb.co/KrCGhqV/dec4.jpg",
+        "name":"Home Decor Happy Deer Family Statue",
+        "material":"Ceramic",
+        "discription":"Piano Finish Ceramic Figures (Set of 4, Multicolor)",
+        "cost":"MRP ₹739.00"
     },
     {
         "id":20,
         "categoryId":4,
-        "image":"https://i.ibb.co/H7Pckjy/s5.jpg",
-        "name":"Britannia Bour Bon Biscuit, 150Gm",
-        "cost":"MRP ₹30.00",
-    },
-
-    //gadgets
-    {
-        "id":21,
-        "categoryId":5,
-        "image":"https://i.ibb.co/9HVXg7D/g1.jpg",
-        "name":"JBL Boombox 2",
-        "cost":"MRP ₹27999.00",
-    },
-    {
-        "id":22,
-        "categoryId":5,
-        "image":"https://i.ibb.co/HBDDCMG/g2.jpg",
-        "name":"Glynzak Wireless Bluetooth Headphones Over Ear",
-        "cost":"MRP ₹5885.00",
-    },
-    {
-        "id":23,
-        "categoryId":5,
-        "image":"https://i.ibb.co/B3PhqdK/G3.webp",
-        "name":"Samsung Galaxy Watch5 LTE",
-        "cost":"MRP ₹27999.00",
-    },
-    {
-        "id":24,
-        "categoryId":5,
-        "image":"https://i.ibb.co/P9Jt4j9/G4.jpg",
-        "name":"boAt Smartring Gen-1",
-        "cost":"MRP ₹3499.00",
-    },
-    {
-        "id":25,
-        "categoryId":5,
-        "image":"https://i.ibb.co/2tmgDts/G5.webp",
-        "name":"Belkin 15W TYPE-C Power Bank 10K Rose Gold",
-        "cost":"MRP ₹2099.00",
-    },
+        "categoryName":"Decorative",
+        "image":"https://i.ibb.co/n6L1M9P/dec5.jpg",
+        "name":"IRIS Floral Bouquet- Dry flower bouquet",
+        "material":"Plastic & Wood",
+        "discription":"Dry flower bouquet, natural material, fragrance with top up spray bottle",
+        "cost":"MRP ₹680.00"
+    }
 ]
